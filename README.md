@@ -37,17 +37,17 @@ Sistema de login seguro com criptografia de senhas.
 Autenticação de dois fatores (2FA) para maior proteção.
 
 Tecnologias Utilizadas:
-Backend: Java (Spring Boot ou JavaFX).
+Backend: Java (Spring Boot).
 
-Banco de Dados: MySQL ou PostgreSQL.
+Banco de Dados: PostgreSQL.
 
-Frontend: HTML, CSS, JavaScript (ou frameworks como React/Angular).
+Frontend: HTML, CSS, JavaScript (frameworks como React).
 
-APIs: Yahoo Finance, Alpha Vantage, Twilio (SMS), SendGrid (e-mail).
+APIs:
 
-Relatórios: JasperReports, Chart.js.
+Relatórios:
 
-Ferramentas: Git, GitHub, IntelliJ IDEA/Eclipse/VS Code.
+Ferramentas: Git, GitHub, IntelliJ IDEA
 
 Licença:
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
