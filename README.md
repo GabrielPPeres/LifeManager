@@ -49,16 +49,5 @@ Relatórios: JasperReports, Chart.js.
 
 Ferramentas: Git, GitHub, IntelliJ IDEA/Eclipse/VS Code.
 
-Como Contribuir:
-Faça um fork do repositório.
-
-Crie uma branch para sua feature (git checkout -b feature/nova-feature).
-
-Commit suas mudanças (git commit -m 'Adiciona nova feature').
-
-Push para a branch (git push origin feature/nova-feature).
-
-Abra um Pull Request.
-
 Licença:
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
